@@ -2,7 +2,7 @@
   "words" : [ {
     "entry" : {
       "id" : 0,
-      "form" : "a or kin"
+      "form" : "a"
     },
     "translations" : [ {
       "title" : "PARTICLE",
@@ -10,7 +10,10 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
-    "variations" : [ ],
+    "variations" : [ {
+      "title" : "or",
+      "form" : "kin"
+    } ],
     "relations" : [ ]
   }, {
     "entry" : {
@@ -54,7 +57,7 @@
   }, {
     "entry" : {
       "id" : 4,
-      "form" : "ale or ali"
+      "form" : "ale"
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
@@ -68,7 +71,10 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
-    "variations" : [ ],
+    "variations" : [ {
+      "title" : "or",
+      "form" : "ali"
+    } ],
     "relations" : [ ]
   }, {
     "entry" : {
@@ -624,7 +630,7 @@
   }, {
     "entry" : {
       "id" : 46,
-      "form" : "lukin or oko"
+      "form" : "lukin"
     },
     "translations" : [ {
       "title" : "NOUN",
@@ -638,7 +644,10 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
-    "variations" : [ ],
+    "variations" : [ {
+      "title" : "or",
+      "form" : "oko"
+    } ],
     "relations" : [ ]
   }, {
     "entry" : {
@@ -1259,7 +1268,7 @@
   }, {
     "entry" : {
       "id" : 93,
-      "form" : "sin or namako"
+      "form" : "sin"
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
@@ -1267,7 +1276,10 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
-    "variations" : [ ],
+    "variations" : [ {
+      "title" : "or",
+      "form" : "namako"
+    } ],
     "relations" : [ ]
   }, {
     "entry" : {
@@ -1623,7 +1635,7 @@
   "zpdic" : {
     "alphabetOrder" : "",
     "alphabetOrderType" : "UNICODE",
-    "punctuations" : [ ",", "、" ],
+    "punctuations" : [ "🗿" ],
     "pronunciationTitle" : null,
     "plainInformationTitles" : [ ],
     "informationTitleOrder" : null,
