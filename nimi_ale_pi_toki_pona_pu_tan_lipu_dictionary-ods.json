@@ -6,7 +6,13 @@
     },
     "translations" : [ {
       "title" : "PARTICLE",
-      "forms" : [ "(emphasis, emotion or confirmation)" ]
+      "forms" : [ "emphasis" ]
+    }, {
+      "title" : "PARTICLE",
+      "forms" : [ "emotion" ]
+    }, {
+      "title" : "PARTICLE",
+      "forms" : [ "confirmation" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -22,7 +28,10 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "non-cute animal; reptile, amphibian" ]
+      "forms" : [ "non-cute animal" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "reptile", "amphibian" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -35,7 +44,7 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "no, not, zero" ]
+      "forms" : [ "no", "not", "zero" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -48,7 +57,7 @@
     },
     "translations" : [ {
       "title" : "VERB",
-      "forms" : [ "to hunt, forage" ]
+      "forms" : [ "hunt", "forage" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -61,10 +70,13 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "all; abundant, countless, bountiful, every, plentiful" ]
+      "forms" : [ "all" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "abundant", "countless", "bountiful", "every", "plentiful" ]
     }, {
       "title" : "NOUN",
-      "forms" : [ "abundance, everything, life, universe" ]
+      "forms" : [ "abundance", "everything", "life", "universe" ]
     }, {
       "title" : "NUMBER",
       "forms" : [ "100" ]
@@ -83,7 +95,7 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "bowing down, downward, humble, lowly, dependent" ]
+      "forms" : [ "bowing down", "downward", "humble", "lowly", "dependent" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -96,7 +108,7 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "different, altered, changed, other" ]
+      "forms" : [ "different", "altered", "changed", "other" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -122,10 +134,10 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "enduring, kept, protected, safe, waiting, staying" ]
+      "forms" : [ "enduring", "kept", "protected", "safe", "waiting", "staying" ]
     }, {
       "title" : "PRE-VERB",
-      "forms" : [ "to continue to" ]
+      "forms" : [ "continue to" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -138,7 +150,7 @@
     },
     "translations" : [ {
       "title" : "PARTICLE",
-      "forms" : [ "(before the direct object)" ]
+      "forms" : [ "[direct-object-separator]" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -151,7 +163,7 @@
     },
     "translations" : [ {
       "title" : "PARTICLE",
-      "forms" : [ "(between multiple subjects)" ]
+      "forms" : [ "[multiple-subjects-separator]" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -164,7 +176,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "market, shop, fair, bazaar, business transaction" ]
+      "forms" : [ "market", "shop", "fair", "bazaar", "business transaction" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -177,7 +189,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "thing, phenomenon, object, matter" ]
+      "forms" : [ "thing", "phenomenon", "object", "matter" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -190,7 +202,10 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "bad, negative; non-essential, irrelevant" ]
+      "forms" : [ "bad", "negative" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "non-essential", "irrelevant" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -203,7 +218,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "tool, implement, machine, device" ]
+      "forms" : [ "tool", "implement", "machine", "device" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -216,7 +231,10 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "centre, content, inside, between; internal organ, stomach" ]
+      "forms" : [ "centre", "content", "inside", "between" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "internal organ", "stomach" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -229,7 +247,7 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "disgusting, obscene, sickly, toxic, unclean, unsanitary" ]
+      "forms" : [ "disgusting", "obscene", "sickly", "toxic", "unclean", "unsanitary" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -242,7 +260,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "human being, person, somebody" ]
+      "forms" : [ "human being", "person", "somebody" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -255,7 +273,7 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "yellow, yellowish" ]
+      "forms" : [ "yellow", "yellowish" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -268,7 +286,7 @@
     },
     "translations" : [ {
       "title" : "VERB",
-      "forms" : [ "to have, carry, contain, hold" ]
+      "forms" : [ "have", "carry", "contain", "hold" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -281,7 +299,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "fish, marine animal, sea creature" ]
+      "forms" : [ "fish", "marine animal", "sea creature" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -294,7 +312,10 @@
     },
     "translations" : [ {
       "title" : "VERB",
-      "forms" : [ "to produce a sound; recite, utter aloud" ]
+      "forms" : [ "produce a sound" ]
+    }, {
+      "title" : "VERB",
+      "forms" : [ "recite", "utter aloud" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -307,10 +328,10 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "arriving, coming, future, summoned" ]
+      "forms" : [ "arriving", "coming", "future", "summoned" ]
     }, {
       "title" : "PRE-VERB",
-      "forms" : [ "to become, manage to, succeed in" ]
+      "forms" : [ "become", "manage to", "succeed in" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -323,7 +344,10 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "plant, vegetation; herb, leaf" ]
+      "forms" : [ "plant", "vegetation" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "herb", "leaf" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -336,7 +360,7 @@
     },
     "translations" : [ {
       "title" : "PRE-VERB",
-      "forms" : [ "to be able to, be allowed to, can, may" ]
+      "forms" : [ "be able to", "be allowed to", "can", "may" ]
     }, {
       "title" : "ADJECTIVE",
       "forms" : [ "possible" ]
@@ -352,7 +376,7 @@
     },
     "translations" : [ {
       "title" : "PREPOSITION",
-      "forms" : [ "to use, with, by means of" ]
+      "forms" : [ "use", "with", "by means of" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -365,7 +389,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "fruit, vegetable, mushroom" ]
+      "forms" : [ "fruit", "vegetable", "mushroom" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -378,7 +402,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "hard object, metal, rock, stone" ]
+      "forms" : [ "hard object", "metal", "rock", "stone" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -391,7 +415,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "clay, clinging form, dough, semi-solid, paste, powder" ]
+      "forms" : [ "clay", "clinging form", "dough", "semi-solid", "paste", "powder" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -404,7 +428,13 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "air, breath; essence, spirit; hidden reality, unseen agent" ]
+      "forms" : [ "air", "breath" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "essence", "spirit" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "hidden reality", "unseen agent" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -417,7 +447,7 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "colourful, pigmented, painted" ]
+      "forms" : [ "colourful", "pigmented", "painted" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -430,7 +460,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "community, company, group, nation, society, tribe" ]
+      "forms" : [ "community", "company", "group", "nation", "society", "tribe" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -446,7 +476,10 @@
       "forms" : [ "ear" ]
     }, {
       "title" : "VERB",
-      "forms" : [ "to hear, listen; pay attention to, obey" ]
+      "forms" : [ "hear", "listen" ]
+    }, {
+      "title" : "VERB",
+      "forms" : [ "pay attention to", "obey" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -459,7 +492,7 @@
     },
     "translations" : [ {
       "title" : "PARTICLE",
-      "forms" : [ "(between the context phrase and the main sentence)" ]
+      "forms" : [ "[context-phrase-and-main-sentence-separator]" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -472,7 +505,7 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "sleeping, resting" ]
+      "forms" : [ "sleeping", "resting" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -485,7 +518,7 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "blue, green" ]
+      "forms" : [ "blue", "green" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -498,10 +531,10 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "head, mind" ]
+      "forms" : [ "head", "mind" ]
     }, {
       "title" : "VERB",
-      "forms" : [ "to control, direct, guide, lead, own, plan, regulate, rule" ]
+      "forms" : [ "control", "direct", "guide", "lead", "own", "plan", "regulate", "rule" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -514,7 +547,10 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "cloth, clothing, fabric, textile; cover, layer of privacy" ]
+      "forms" : [ "cloth", "clothing", "fabric", "textile" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "cover", "layer of privacy" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -527,7 +563,10 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "cold, cool; uncooked, raw" ]
+      "forms" : [ "cold", "cool" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "uncooked", "raw" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -540,10 +579,13 @@
     },
     "translations" : [ {
       "title" : "PARTICLE",
-      "forms" : [ "(between any subject except mi alone or sina alone and its verb; also to introduce a new verb for the same subject)" ]
+      "forms" : [ "[verb-separator]" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "note",
+      "text" : "between any subject except \"mi\" alone or \"sina\" alone and its verb; also to introduce a new verb for the same subject"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -553,7 +595,16 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "little, small, short; few; a bit; young" ]
+      "forms" : [ "little", "small", "short" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "few" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "a bit" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "young" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -566,7 +617,10 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "long and flexible thing; cord, hair, rope, thread, yarn" ]
+      "forms" : [ "long and flexible thing" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "cord", "hair", "rope", "thread", "yarn" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -579,7 +633,10 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "flat object; book, document, card, paper, record, website" ]
+      "forms" : [ "flat object" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "book", "document", "card", "paper", "record", "website" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -592,7 +649,7 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "red, reddish" ]
+      "forms" : [ "red", "reddish" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -605,7 +662,7 @@
     },
     "translations" : [ {
       "title" : "PREPOSITION",
-      "forms" : [ "located at, present at, real, true, existing" ]
+      "forms" : [ "located at", "present at", "real", "true", "existing" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -618,7 +675,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "arm, hand, tactile organ" ]
+      "forms" : [ "arm", "hand", "tactile organ" ]
     }, {
       "title" : "NUMBER",
       "forms" : [ "five" ]
@@ -637,10 +694,10 @@
       "forms" : [ "eye" ]
     }, {
       "title" : "VERB",
-      "forms" : [ "to look at, see, examine, observe, read, watch" ]
+      "forms" : [ "look at", "see", "examine", "observe", "read", "watch" ]
     }, {
       "title" : "PRE-VERB",
-      "forms" : [ "to seek, look for, try to" ]
+      "forms" : [ "seek", "look for", "try to" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -656,7 +713,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "door, hole, orifice, window" ]
+      "forms" : [ "door", "hole", "orifice", "window" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -669,7 +726,16 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "earth, land; outdoors, world; country, territory; soil" ]
+      "forms" : [ "earth", "land" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "outdoors", "world" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "country", "territory" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "soil" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -682,7 +748,13 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "parent, ancestor; creator, originator; caretaker, sustainer" ]
+      "forms" : [ "parent", "ancestor" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "creator", "originator" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "caretaker", "sustainer" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -695,7 +767,10 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "money, cash, savings, wealth; large domesticated animal" ]
+      "forms" : [ "money", "cash", "savings", "wealth" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "large domesticated animal" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -708,7 +783,10 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "woman, female, feminine person; wife" ]
+      "forms" : [ "woman", "female", "feminine person" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "wife" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -721,7 +799,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "I, me, we, us" ]
+      "forms" : [ "I", "me", "we", "us" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -734,7 +812,10 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "man, male, masculine person; husband" ]
+      "forms" : [ "man", "male", "masculine person" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "husband" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -747,7 +828,7 @@
     },
     "translations" : [ {
       "title" : "VERB",
-      "forms" : [ "to eat, drink, consume, swallow, ingest" ]
+      "forms" : [ "eat", "drink", "consume", "swallow", "ingest" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -760,7 +841,7 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "dead, dying" ]
+      "forms" : [ "dead", "dying" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -773,7 +854,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "back, behind, rear" ]
+      "forms" : [ "back", "behind", "rear" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -799,7 +880,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "moon, night sky object, star" ]
+      "forms" : [ "moon", "night sky object", "star" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -812,7 +893,7 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "artistic, entertaining, frivolous, playful, recreational" ]
+      "forms" : [ "artistic", "entertaining", "frivolous", "playful", "recreational" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -825,7 +906,7 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "many, a lot, more, much, several, very" ]
+      "forms" : [ "many", "a lot", "more", "much", "several", "very" ]
     }, {
       "title" : "NOUN",
       "forms" : [ "quantity" ]
@@ -857,7 +938,13 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "unusual, strange; foolish, crazy; drunk, intoxicated" ]
+      "forms" : [ "unusual", "strange" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "foolish", "crazy" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "drunk", "intoxicated" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -870,7 +957,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "way, custom, doctrine, method, path, road" ]
+      "forms" : [ "way", "custom", "doctrine", "method", "path", "road" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -883,7 +970,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "bump, button, hill, mountain, nose, protuberance" ]
+      "forms" : [ "bump", "button", "hill", "mountain", "nose", "protuberance" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -896,7 +983,7 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "that, this" ]
+      "forms" : [ "that", "this" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -909,7 +996,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "name, word" ]
+      "forms" : [ "name", "word" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -922,7 +1009,10 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "foot, leg, organ of locomotion; bottom, lower part" ]
+      "forms" : [ "foot", "leg", "organ of locomotion" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "bottom", "lower part" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -935,7 +1025,13 @@
     },
     "translations" : [ {
       "title" : "PARTICLE",
-      "forms" : [ "hey! O! (vocative or imperative)" ]
+      "forms" : [ "hey!" ]
+    }, {
+      "title" : "PARTICLE",
+      "forms" : [ "O!" ]
+    }, {
+      "title" : "PARTICLE",
+      "forms" : [ "(vocative or imperative)" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -948,7 +1044,7 @@
     },
     "translations" : [ {
       "title" : "VERB",
-      "forms" : [ "to love, have compassion for, respect, show affection to" ]
+      "forms" : [ "love", "have compassion for", "respect", "show affection to" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -961,7 +1057,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "he, she, it, they" ]
+      "forms" : [ "he", "she", "it", "they" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -974,7 +1070,13 @@
     },
     "translations" : [ {
       "title" : "VERB",
-      "forms" : [ "to begin, start; open; turn on" ]
+      "forms" : [ "begin", "start" ]
+    }, {
+      "title" : "VERB",
+      "forms" : [ "open" ]
+    }, {
+      "title" : "VERB",
+      "forms" : [ "turn on" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -987,7 +1089,7 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "botched, broken, damaged, harmed, messed up" ]
+      "forms" : [ "botched", "broken", "damaged", "harmed", "messed up" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1000,7 +1102,10 @@
     },
     "translations" : [ {
       "title" : "VERB",
-      "forms" : [ "to do, take action on, work on; build, make, prepare" ]
+      "forms" : [ "do", "take action on", "work on" ]
+    }, {
+      "title" : "VERB",
+      "forms" : [ "build", "make", "prepare" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1013,7 +1118,10 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "long hard thing; branch, rod, stick" ]
+      "forms" : [ "long hard thing" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "branch", "rod", "stick" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1026,7 +1134,13 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "cereal, grain; barley, corn, oat, rice, wheat; bread, pasta" ]
+      "forms" : [ "cereal", "grain" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "barley", "corn", "oat", "rice", "wheat" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "bread", "pasta" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1039,7 +1153,7 @@
     },
     "translations" : [ {
       "title" : "VERB",
-      "forms" : [ "to give, send, emit, provide, put, release" ]
+      "forms" : [ "give", "send", "emit", "provide", "put", "release" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1068,7 +1182,7 @@
       "forms" : [ "heart (physical or emotional)" ]
     }, {
       "title" : "ADJECTIVE",
-      "forms" : [ "feeling (an emotion, a direct experience)" ]
+      "forms" : [ "feeling (an emotion [or] a direct experience)" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1081,7 +1195,7 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "black, dark, unlit" ]
+      "forms" : [ "black", "dark", "unlit" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1094,7 +1208,7 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "ago, completed, ended, finished, past" ]
+      "forms" : [ "ago", "completed", "ended", "finished", "past" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1107,7 +1221,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "bug, insect, ant, spider" ]
+      "forms" : [ "bug", "insect", "ant", "spider" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1120,7 +1234,10 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "hip, side; next to, nearby, vicinity" ]
+      "forms" : [ "hip", "side" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "next to", "nearby", "vicinity" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1133,7 +1250,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "container, bag, bowl, box, cup, cupboard, drawer, vessel" ]
+      "forms" : [ "container", "bag", "bowl", "box", "cup", "cupboard", "drawer", "vessel" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1146,7 +1263,13 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "good, positive, useful; friendly, peaceful; simple" ]
+      "forms" : [ "good", "positive", "useful" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "friendly", "peaceful" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "simple" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1172,10 +1295,16 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "same, similar; each other; sibling, peer, fellow" ]
+      "forms" : [ "same", "similar" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "each other" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "sibling", "peer", "fellow" ]
     }, {
       "title" : "PREPOSITION",
-      "forms" : [ "as, like" ]
+      "forms" : [ "as", "like" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1188,7 +1317,10 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "fire; cooking element, chemical reaction, heat source" ]
+      "forms" : [ "fire" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "cooking element", "chemical reaction", "heat source" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1201,7 +1333,13 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "outer form, outer layer; bark, peel, shell, skin; boundary" ]
+      "forms" : [ "outer form", "outer layer" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "bark", "peel", "shell", "skin" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "boundary" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1214,7 +1352,10 @@
     },
     "translations" : [ {
       "title" : "PARTICLE",
-      "forms" : [ "what? which?" ]
+      "forms" : [ "what?" ]
+    }, {
+      "title" : "PARTICLE",
+      "forms" : [ "which?" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1227,10 +1368,10 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "area above, highest part, something elevated" ]
+      "forms" : [ "area above", "highest part", "something elevated" ]
     }, {
       "title" : "ADJECTIVE",
-      "forms" : [ "awe-inspiring, divine, sacred, supernatural" ]
+      "forms" : [ "awe-inspiring", "divine", "sacred", "supernatural" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1243,7 +1384,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "body (of person or animal), physical state, torso" ]
+      "forms" : [ "body (of person or animal)", "physical state", "torso" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1256,7 +1397,10 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "round or circular thing; ball, circle, cycle, sphere, wheel" ]
+      "forms" : [ "round or circular thing" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "ball", "circle", "cycle", "sphere", "wheel" ]
     }, {
       "title" : "ADJECTIVE",
       "forms" : [ "of one year" ]
@@ -1272,7 +1416,10 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "new, fresh; additional, another, extra" ]
+      "forms" : [ "new", "fresh" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "additional", "another", "extra" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1301,7 +1448,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "face, foremost, front, wall" ]
+      "forms" : [ "face", "foremost", "front", "wall" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1314,7 +1461,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "image, picture, representation, symbol, mark, writing" ]
+      "forms" : [ "image", "picture", "representation", "symbol", "mark", "writing" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1327,10 +1474,10 @@
     },
     "translations" : [ {
       "title" : "VERB",
-      "forms" : [ "to know, be skilled in, be wise about, have information on" ]
+      "forms" : [ "know", "be skilled in", "be wise about", "have information on" ]
     }, {
       "title" : "PRE-VERB",
-      "forms" : [ "to know how to" ]
+      "forms" : [ "know how to" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1343,7 +1490,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "animal, beast, land mammal" ]
+      "forms" : [ "animal", "beast", "land mammal" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1356,7 +1503,13 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "big, heavy, large, long, tall; important; adult" ]
+      "forms" : [ "big", "heavy", "large", "long", "tall" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "important" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "adult" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1369,7 +1522,13 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "sun; light, brightness, glow, radiance, shine; light source" ]
+      "forms" : [ "sun" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "light", "brightness", "glow", "radiance", "shine" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "light source" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1382,7 +1541,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "horizontal surface, thing to put or rest something on" ]
+      "forms" : [ "horizontal surface", "thing to put or rest something on" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1395,7 +1554,10 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "sweet, fragrant; cute, innocent, adorable" ]
+      "forms" : [ "sweet", "fragrant" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "cute", "innocent", "adorable" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1408,7 +1570,7 @@
     },
     "translations" : [ {
       "title" : "PREPOSITION",
-      "forms" : [ "by, from, because of" ]
+      "forms" : [ "by", "from", "because of" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1421,7 +1583,7 @@
     },
     "translations" : [ {
       "title" : "PARTICLE",
-      "forms" : [ "but, however" ]
+      "forms" : [ "but", "however" ]
     }, {
       "title" : "ADJECTIVE",
       "forms" : [ "only" ]
@@ -1437,7 +1599,13 @@
     },
     "translations" : [ {
       "title" : "PREPOSITION",
-      "forms" : [ "going to, toward; for; from the perspective of" ]
+      "forms" : [ "going to", "toward" ]
+    }, {
+      "title" : "PREPOSITION",
+      "forms" : [ "for" ]
+    }, {
+      "title" : "PREPOSITION",
+      "forms" : [ "from the perspective of" ]
     }, {
       "title" : "ADJECTIVE",
       "forms" : [ "moving" ]
@@ -1453,7 +1621,10 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "water, liquid, fluid, wet substance; beverage" ]
+      "forms" : [ "water", "liquid", "fluid", "wet substance" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "beverage" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1466,7 +1637,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "time, duration, moment, occasion, period, situation" ]
+      "forms" : [ "time", "duration", "moment", "occasion", "period", "situation" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1479,7 +1650,7 @@
     },
     "translations" : [ {
       "title" : "VERB",
-      "forms" : [ "to communicate, say, speak, say, talk, use language, think" ]
+      "forms" : [ "communicate", "say", "speak", "say", "talk", "use language", "think" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1492,7 +1663,10 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "indoor space; building, home, house, room" ]
+      "forms" : [ "indoor space" ]
+    }, {
+      "title" : "NOUN",
+      "forms" : [ "building", "home", "house", "room" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1518,7 +1692,7 @@
     },
     "translations" : [ {
       "title" : "VERB",
-      "forms" : [ "to have sexual or marital relations with" ]
+      "forms" : [ "have sexual or marital relations with" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1531,7 +1705,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "mouth, lips, oral cavity, jaw" ]
+      "forms" : [ "mouth", "lips", "oral cavity", "jaw" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1544,7 +1718,7 @@
     },
     "translations" : [ {
       "title" : "VERB",
-      "forms" : [ "to battle, challenge, compete against, struggle against" ]
+      "forms" : [ "battle", "challenge", "compete against", "struggle against" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1557,7 +1731,10 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "white, whitish; light-coloured, pale" ]
+      "forms" : [ "white", "whitish" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "light-coloured", "pale" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1570,7 +1747,7 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "unique, united" ]
+      "forms" : [ "unique", "united" ]
     }, {
       "title" : "NUMBER",
       "forms" : [ "one" ]
@@ -1586,7 +1763,7 @@
     },
     "translations" : [ {
       "title" : "NOUN",
-      "forms" : [ "bird, flying creature, winged animal" ]
+      "forms" : [ "bird", "flying creature", "winged animal" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1599,7 +1776,13 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "strong, powerful; confident, sure; energetic, intense" ]
+      "forms" : [ "strong", "powerful" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "confident", "sure" ]
+    }, {
+      "title" : "ADJECTIVE",
+      "forms" : [ "energetic", "intense" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1612,7 +1795,7 @@
     },
     "translations" : [ {
       "title" : "ADJECTIVE",
-      "forms" : [ "absent, away, ignored" ]
+      "forms" : [ "absent", "away", "ignored" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1625,7 +1808,7 @@
     },
     "translations" : [ {
       "title" : "PRE-VERB",
-      "forms" : [ "must, need, require, should, want, wish" ]
+      "forms" : [ "must", "need", "require", "should", "want", "wish" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
