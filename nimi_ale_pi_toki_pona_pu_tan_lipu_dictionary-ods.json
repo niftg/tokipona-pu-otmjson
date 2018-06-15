@@ -1818,7 +1818,7 @@
   "zpdic" : {
     "alphabetOrder" : "",
     "alphabetOrderType" : "UNICODE",
-    "punctuations" : [ "🗿" ],
+    "punctuations" : [ "\u2009\u00a6\u2009" ],
     "pronunciationTitle" : null,
     "plainInformationTitles" : [ ],
     "informationTitleOrder" : null,
