@@ -15,7 +15,7 @@ function pokiNimi(v, index) {
         v[1].split(v[1].match(/^\(.*\)$/)?null:/;\s*/)
     ])
 
-    let word = {
+    return {
         entry: {
             id: index+1,
             form: wordForms[0]
@@ -28,15 +28,10 @@ function pokiNimi(v, index) {
                 )
             }
         })).reduce((a,c)=>a.concat(c),[]),
-        tags:[],contents:[],variations:[],relations:[] // tawa ilo ZpDIC
+        tags:[],contents:[],
+        variations:wordForms[1]?[{title:'alternative',form:wordForms[1]}]:[],
+        relations:[]
     }
-    if(wordForms[1]){
-        word.variations = [{
-            title: 'alternative',
-            form: wordForms[1]
-        }]
-    }
-    return word
 }
 
 fs.writeFileSync("./dictionary.csv.nj.json",JSON.stringify(otmd))
