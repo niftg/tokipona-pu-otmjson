@@ -27,7 +27,8 @@ function pokiNimi(v, index) {
                     v[0].match("VERB")?s.replace(/^to\s*/,''):s
                 )
             }
-        })).reduce((a,c)=>a.concat(c),[])
+        })).reduce((a,c)=>a.concat(c),[]),
+        tags:[],contents:[],variations:[],relations:[] // tawa ilo ZpDIC
     }
     if(wordForms[1]){
         word.variations = [{
